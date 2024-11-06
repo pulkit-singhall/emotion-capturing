@@ -1,0 +1,6 @@
+transformers
+ipykernel
+gradio
+numpy
+python-dotenv
+torch
